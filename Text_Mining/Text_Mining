@@ -1,0 +1,1 @@
+In the we will explore the impacts of applying SVD to the data.  Analyze how changing the n_components parameter impacts the modeling results. Used the values 100, 300, and 500 and discuss how each of these values impacted the performance of the models.
