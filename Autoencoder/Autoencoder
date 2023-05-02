@@ -1,0 +1,4 @@
+Created 5 28x28 pixel images of the first letter of your first name to be used for training. For instance, if the first character of your name is K, then create 5 versions of K and save these as 5 different 28x28 images.
+Loaded the MNIST dataset  and the supplied autencoder (digits.a5). Display the predictions for several random digits and compare these to the original. 
+Create a new autoencoder, and train this autoencoder with the MNIST dataset, with your new images added (don't forget to oversample these images. Add enough copies to the MNIST dataset so that your model can identify your new character).
+Demonstrate your new encoding by showing the autencoder recreate a random set of digits and your new character.
