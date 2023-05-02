@@ -1,0 +1,1 @@
+ Using airbnb data with a target of price_gte_150 to fit an SVM (with poly kernel) and Decision tree model using the randomsearch/gridsearch approach demonstrated in the in-class notebook 2b-param-searching.ipynb. Use precision as the scoring measure to optimize.
