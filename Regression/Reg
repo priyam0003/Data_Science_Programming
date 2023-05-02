@@ -1,1 +1,4 @@
 
+We are exprimenting with Regression analysis for various cases checking the rsqaure values. case involved: increased noise reduced data samples
+
+We observed with increased noise the r sqaure value decraesed. and with decreased data samples the r sqaure value increased slightly probably due to oversampling
