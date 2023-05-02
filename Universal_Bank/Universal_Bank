@@ -1,0 +1,3 @@
+Universal bank has recently trialed a marketing campaign to sell their new CD account product to existing customers. They contacted 5000 of their non-CD account customers with an offer. The data provided in universal.csv is the result of this market test. 
+
+Identified the best predictive model (using only the models covered thus far: Logistic Regression, SVM (with various kernels), and Decision trees). 
