@@ -1,3 +1,2 @@
 # DSP
-Audit Risk Analysis
-The increasing complexity of business operations and regulations has led to a rise in the risk of financial fraud and misreporting. Companies must conduct audit risk analysis to identify areas of potential risk and ensure compliance with regulatory requirements. However, many companies struggle with conducting effective audit risk analysis due to limited resources, lack of expertise, and inadequate data management systems. This can lead to financial losses, reputational damage, and legal penalties for non-compliance. We will develop a predictive model to predict risk factor involved with the companies based on historical audit data.
+Data Science Programming Assignment and Project Repository
